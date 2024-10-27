@@ -40,6 +40,7 @@ Accelerating my productivity with:
 
 ---
 
-![cat](https://github.com/user-attachments/assets/63dd3968-7bda-4dc3-b5dd-ac7cca63c680)
+![cat](https://github.com/user-attachments/assets/d07df06c-96dd-4606-8cf3-646277191573)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/notlukas18?label=Follow&style=social)](https://github.com/notlukas18)
