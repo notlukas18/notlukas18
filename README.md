@@ -14,7 +14,7 @@ Reach out to me via Reach out to me via [Email](mailto:se13024@students.polito.u
 Feel free to ask, I'm always happy to help or chat!
 
 
-## 🌟 Featured Projects
+## <img src="https://github.com/user-attachments/assets/ad369346-48cc-4816-8056-066eecfbc2a9 width="30" height="30"> Featured Projects
 ### [Vintage Haven](https://github.com/notlukas18/Vintage-Haven) 🧸
 [Vintage Haven](https://github.com/notlukas18/Vintage-Haven) An online store app focused on unique vintage items, built with my team. It includes features like a product listing, cart, and user registration, all working seamlessly to deliver a great shopping experience.
 
