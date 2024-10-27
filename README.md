@@ -42,5 +42,5 @@ Accelerating my productivity with:
 I'm continually learning and incorporating Linux tools and workflows to expand my development capabilities.
 
 ---
-
+![cat](https://github.com/user-attachments/assets/63dd3968-7bda-4dc3-b5dd-ac7cca63c680)
 [![GitHub followers](https://img.shields.io/github/followers/notlukas18?label=Follow&style=social)](https://github.com/notlukas18)
