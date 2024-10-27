@@ -40,19 +40,6 @@ Accelerating my productivity with:
 
 ---
 
-## 🎶 Spotify Listening Status
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ixtxoa1aiyh0m1qa79t4gxy29&cover_image=true&theme=default&bar_color=0b0b0b&icon_color=white&title_color=white)
-
-## 🎧 Currently Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ixtxoa1aiyh0m1qa79t4gxy29&theme=default)](https://open.spotify.com/user/ixtxoa1aiyh0m1qa79t4gxy29)
-
----
-
-## 💬 Discord
-Feel free to connect with me on Discord: `lucik8136`
-
----
-
 ![cat](https://github.com/user-attachments/assets/63dd3968-7bda-4dc3-b5dd-ac7cca63c680)
 
 [![GitHub followers](https://img.shields.io/github/followers/notlukas18?label=Follow&style=social)](https://github.com/notlukas18)
