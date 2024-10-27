@@ -1,7 +1,7 @@
-## ![hi+there+copy](https://github.com/user-attachments/assets/5948da54-caf2-43d5-ac6b-0f8a45e4ead7)
-✨ I'm a software engineering student from Uzbekistan, crafting delightful mobile experiences and always seeking new adventures! 🚀
+## ✨ Hi there! I'm a software engineering student from Uzbekistan, crafting delightful mobile experiences and always seeking new adventures! 🚀
 
 ![kick-him](https://github.com/user-attachments/assets/6c62d086-e5b4-419a-9116-5363848dd7cb)
+
 🛠️ Currently working on Vintage Haven, a shopping app inspired by the charm of vintage aesthetics. 🛍️✨
 🌿 Exploring Kotlin and diving deeper into Android development, one code line at a time. 📱🌱
 🤝 Eager to collaborate on creative projects and share the joy of learning with fellow tech enthusiasts. 💞🔍
