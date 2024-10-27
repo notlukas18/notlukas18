@@ -43,4 +43,4 @@ I'm continually learning and incorporating Linux tools and workflows to expand m
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/notlukas18?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/notlukas18?label=Follow&style=social)](https://github.com/notlukas18)
