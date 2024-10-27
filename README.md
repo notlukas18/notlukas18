@@ -1,5 +1,5 @@
 ![68e3ada8fb3a0ff93343e15bbd18cae9](https://github.com/user-attachments/assets/00ab0cfd-bdd1-463c-b2ea-7e4e7bd49923)
-# Hola, World! I'm notlukas ![51125d9904b0aab078e2f7d0cbf37d8a](https://github.com/user-attachments/assets/1aab00c6-fe4e-4f72-bb32-f6b40564162a)
+# Hola, World! I'm notlukas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=notlukas18&color=blue)
 
