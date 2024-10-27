@@ -1,4 +1,5 @@
-## Hello there! ✨
+## ![55-556660_hi-calligraphy-hd-png-download](https://github.com/user-attachments/assets/51676959-f01b-4c22-b9f6-572413ba9601)
+
 
 ✨ I'm a dedicated software engineering student from Uzbekistan, passionate about crafting delightful mobile applications and embracing new adventures! 🚀
 
