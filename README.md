@@ -1,6 +1,4 @@
-## ![hi+there+copy](https://github.com/user-attachments/assets/444f2cfc-5ca5-4b79-bb6c-bf98cac2730d)
-
-
+## ![hi+there+copy](https://github.com/user-attachments/assets/5948da54-caf2-43d5-ac6b-0f8a45e4ead7)
 ✨ I'm a dedicated software engineering student from Uzbekistan, passionate about crafting delightful mobile applications and embracing new adventures! 🚀
 
 ![kick-him](https://github.com/user-attachments/assets/6c62d086-e5b4-419a-9116-5363848dd7cb)
