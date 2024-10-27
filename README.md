@@ -1,4 +1,4 @@
-## ![68e3ada8fb3a0ff93343e15bbd18cae9](https://github.com/user-attachments/assets/00ab0cfd-bdd1-463c-b2ea-7e4e7bd49923)
+![68e3ada8fb3a0ff93343e15bbd18cae9](https://github.com/user-attachments/assets/00ab0cfd-bdd1-463c-b2ea-7e4e7bd49923)
 # Hola, World! I'm Javohir 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=notlukas18&color=blue)
 
