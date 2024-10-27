@@ -1,4 +1,5 @@
-![68e3ada8fb3a0ff93343e15bbd18cae9](https://github.com/user-attachments/assets/00ab0cfd-bdd1-463c-b2ea-7e4e7bd49923)# Hola, World! I'm Javohir 👋
+![68e3ada8fb3a0ff93343e15bbd18cae9](https://github.com/user-attachments/assets/00ab0cfd-bdd1-463c-b2ea-7e4e7bd49923)
+# Hola, World! I'm Javohir 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=notlukas18&color=blue)
 
 I'm a Software Developer, with a passion for bringing ideas to life. Growing up in the early 2000s, I fell in love with the internet, inspired by my experiences and interest in AI and mobile app development, I aim to build digital solutions that are both efficient and accessible to users. I specialize in Kotlin and Python for creating apps and data-driven projects.
