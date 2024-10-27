@@ -15,9 +15,7 @@ Feel free to ask, I'm always happy to help or chat!
 
 ## 🌟 Featured Projects
 ### [Violet Void Theme](https://github.com/yourusername/violet-void-theme) 🟣
-[Violet Void Theme](https://github.com/notlukas18/violet-void-theme) is a set of configuration files designed to give [Operating System] an amazing visual overhaul with a sleek, violet-toned aesthetic. This theme applies consistent violet tones throughout the interface, enhancing the user experience with a cohesive look. In addition to visual enhancements, I’ve integrated Linux-like functionalities, making the system more powerful and customizable. I'm also developing custom glyphs to enhance the terminal experience.
-
-Currently, I'm working on a comprehensive PowerShell profile that integrates all my custom configurations into a cohesive setup. This profile aims to streamline workflows and enhance productivity by leveraging PowerShell and Linux-like commands. Once finalized, I will publish this profile for others to benefit from an optimized environment.
+[Violet Void Theme](https://github.com/notlukas18/Vintage-Haven) Vintage Haven: An online store app focused on unique vintage items, built with my team. It includes features like a product listing, cart, and user registration, all working seamlessly to deliver a great shopping experience.
 
 ---
 
