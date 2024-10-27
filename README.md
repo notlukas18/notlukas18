@@ -12,7 +12,6 @@ Reach out to me via Reach out to me via [Email](mailto:se13024@students.polito.u
  - 💬 Got questions or curious about something?
 Feel free to ask, I'm always happy to help or chat!
 
---
 
 ## 🌟 Featured Projects
 ### [Vintage Haven](https://github.com/notlukas18/Vintage-Haven) 🧸
