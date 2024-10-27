@@ -3,6 +3,7 @@
 
 I'm a Software Developer, with a passion for bringing ideas to life. Growing up in the early 2000s, I fell in love with the internet, inspired by my experiences and interest in AI and mobile app development, I aim to build digital solutions that are both efficient and accessible to users. I specialize in Kotlin and Python for creating apps and data-driven projects.
 Currently, I’m expanding my knowledge in DevOps and containerization with Docker, diving deeper into tools like GitHub to streamline development and improve deployment workflows.
+
 Beyond coding, metal music is my go-to genre, and I love exploring both the intensity and artistry within it. Whether I’m gaming, discovering new music, or appreciating different art forms, I believe that creativity is key to everything I do.
 
 ## 💼 Interested in working together?
