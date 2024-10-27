@@ -1,4 +1,4 @@
-## ![hi+there+copy](https://github.com/user-attachments/assets/094629e2-d61e-4f85-8ead-f840e9ed2b67)
+## ✨ Hi there! I'm a software engineering student, crafting delightful mobile experiences and always seeking new adventures! 🚀
 ![kick-him](https://github.com/user-attachments/assets/6c62d086-e5b4-419a-9116-5363848dd7cb)
 
 - 🛠️ I’m currently developing **Vintage Haven**, a charming shopping app inspired by vintage aesthetics, designed to create a memorable shopping experience. 🛍💖
