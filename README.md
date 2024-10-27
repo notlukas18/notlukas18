@@ -20,8 +20,8 @@ Feel free to ask, I'm always happy to help or chat!
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notlukas18&show_icons=true&theme=omni)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=notlukas18&theme=omni)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notlukas18&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=notlukas18&theme=dark)
 
 
 ---
