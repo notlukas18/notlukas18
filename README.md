@@ -1,12 +1,62 @@
-## ✨ Hi there! I'm a software engineering student, crafting delightful mobile experiences and always seeking new adventures! 🚀
-![kick-him](https://github.com/user-attachments/assets/6c62d086-e5b4-419a-9116-5363848dd7cb)
+# Hola, World! I'm Javohir 👋
+![Profile Views](https://komarev.com/ghpvc/?username=notlukas18&color=blue)
 
-- 🛠️ I’m currently developing **Vintage Haven**, a charming shopping app inspired by vintage aesthetics, designed to create a memorable shopping experience. 🛍💖      
-- 🌿 I’m diving into Kotlin and sharpening my skills in Android app development, exploring new horizons! 📱🌟                                                        
-- 🤝 I’m eager to team up on exciting app projects and exchange ideas with fellow creators! 💞
-- ❓ I’m seeking guidance on integrating advanced functionalities into my applications and refining my coding practices. ✨
-- 💭 Feel free to ask me about mobile app development, software engineering principles, or my journey as a tech student! 🤗
-- 😃 Pronouns: He/Him 🌟
-- ⚡ A little fun fact: I have a passion for vintage fashion and enjoy hunting for one-of-a-kind treasures from the past! 🌼
-  ![cat](https://github.com/user-attachments/assets/1a4343cd-abbc-487d-a6f4-c4cbd235a14a)
+I'm a Software engineering student, with a passion for bringing ideas to life. Growing up in the early 2000s, I fell in love with the internet, and that passion has driven me to design and develop websites and applications that are fast, responsive, and accessible to everyone. I specialize in creating projects with functionalities such as [briefly describe your specialties, e.g., "booking systems for various businesses."]
 
+Additionally, I'm diving into the world of [Other Field/Skill], expanding my skill set to streamline development processes and improve deployment efficiency.
+
+## 💼 Interested in working together?
+Reach out to me via se13024@students.polito.uz
+
+## 💬 Got a question?
+Feel free to ask, I'm always happy to help or chat!
+
+---
+
+## 🌟 Featured Projects
+### [Violet Void Theme](https://github.com/yourusername/violet-void-theme) 🟣
+[Violet Void Theme](https://github.com/notlukas18/violet-void-theme) is a set of configuration files designed to give [Operating System] an amazing visual overhaul with a sleek, violet-toned aesthetic. This theme applies consistent violet tones throughout the interface, enhancing the user experience with a cohesive look. In addition to visual enhancements, I’ve integrated Linux-like functionalities, making the system more powerful and customizable. I'm also developing custom glyphs to enhance the terminal experience.
+
+Currently, I'm working on a comprehensive PowerShell profile that integrates all my custom configurations into a cohesive setup. This profile aims to streamline workflows and enhance productivity by leveraging PowerShell and Linux-like commands. Once finalized, I will publish this profile for others to benefit from an optimized environment.
+
+---
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=notlukas18&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=notlukas18&theme=radical)
+
+---
+
+## 📃 I Love Documentation
+Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation. My go-to documentation tool is [Obsidian.md](https://obsidian.md/).
+
+In addition, I'm working on a custom Obsidian theme as part of my Violet Void series. This theme features rich, deep purple colors with transparency effects, providing a sleek and modern look. I plan to release it soon so others can enjoy it as well.
+
+### Whenever I write documentation, I follow these principles:
+- **What** is this documentation about?
+- **Why** is this documentation important?
+- **How** can the reader use it?
+- **When** should it be used?
+- **Who** is it for?
+
+---
+
+## ⚙️ My Development Environment
+I grew up with [Operating System], and it holds a special place in my heart. It’s my go-to for development, where I extensively use [Tools/Technologies]. My customized PowerShell configuration streamlines my workflows, combined with [Editor/IDE] and other tools.
+
+### 🖥️ PowerUser Setup
+Accelerating my productivity with:
+- [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/)
+- [Azure](https://azure.microsoft.com/)
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/)
+- [VSCode](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
+
+---
+
+## 🐧 Linux Enthusiast
+I'm continually learning and incorporating Linux tools and workflows to expand my development capabilities.
+
+---
+
+[![GitHub followers](https://img.shields.io/github/followers/notlukas18?label=Follow&style=social)](https://github.com/yourusername)
