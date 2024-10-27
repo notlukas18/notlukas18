@@ -3,9 +3,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=notlukas18&color=blue)
 
-Hey fam! I’m a Software Dev out here tryna make *big moves* and bring ideas to life. I grew up in the OG internet days, and now, I’m hooked on building digital tools that make life hit different. I’m super into AI and mobile app dev, using Kotlin and Python to drop next-level, data-powered apps. Lately, I’m deep in my DevOps and Docker era, plus getting all the GitHub skills to streamline my workflows like a pro.
+Hey fam! I’m a Software Dev out here tryna make big moves and bring ideas to life. I grew up in the OG internet days, and now, I’m hooked on building digital tools that make life hit different. I’m super into AI and mobile app dev, using Kotlin and Python to drop next-level, data-powered apps. Lately, I’m deep in my DevOps and Docker era, plus getting all the GitHub skills to streamline my workflows like a pro.
 
-Outside the code grind, metal music is my whole mood—nothing but vibes and *pure energy.* Catch me gaming, vibing to new tracks, or getting lost in all kinds of art. For me, it’s all about being creative and going off with whatever I’m doing. If it’s giving fresh takes, I’m all in. Let’s get it! ✨
+Outside the code grind, metal music is my whole mood—nothing but vibes and pure energy. Catch me gaming, vibing to new tracks, or getting lost in all kinds of art. For me, it’s all about being creative and going off with whatever I’m doing. If it’s giving fresh takes, I’m all in. Let’s get it! ✨
 
  - 💼 Interested in working together?
 Reach out to me via Reach out to me via [Email](mailto:se13024@students.polito.uz)  
