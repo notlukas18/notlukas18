@@ -27,14 +27,9 @@ Feel free to ask, I'm always happy to help or chat!
 
 ---
 
-## ⚙️ My Development Environment
-I primarily use Windows with WSL for accessing Linux functionalities, along with VSCode and Git for code management. My configurations are personalized for a smooth, productive development experience, and I’m actively exploring Linux distributions like Ubuntu and Debian to enhance my skills further.
-
 ### 🖥️ PowerUser Setup
 Accelerating my productivity with:
 - [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/)
-- [Azure](https://azure.microsoft.com/)
-- [WSL](https://docs.microsoft.com/en-us/windows/wsl/)
 - [VSCode](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
 
