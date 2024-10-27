@@ -7,9 +7,9 @@ Currently, I’m expanding my knowledge in DevOps and containerization with Dock
 
 Beyond coding, metal music is my go-to genre, and I love exploring both the intensity and artistry within it. Whether I’m gaming, discovering new music, or appreciating different art forms, I believe that creativity is key to everything I do ✨
 
-💼 Interested in working together?
+ - 💼 Interested in working together?
 Reach out to me via Reach out to me via [Email](mailto:se13024@students.polito.uz)  
-💬 Got questions or curious about something?
+ - 💬 Got questions or curious about something?
 Feel free to ask, I'm always happy to help or chat!
 
 ---
