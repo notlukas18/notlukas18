@@ -8,7 +8,7 @@ Hey fam! I’m a Software Dev out here tryna make big moves and bring ideas to l
 Outside the code grind, metal music is my whole mood—nothing but vibes and pure energy. Catch me gaming, vibing to new tracks, or getting lost in all kinds of art. For me, it’s all about being creative and going off with whatever I’m doing. If it’s giving fresh takes, I’m all in. Let’s get it! ✨
 
  - 💼 Interested in working together?
-Reach out to me via [Email](mailto:se13024@students.polito.uz)  
+Reach out to me via Discord: notlukas#1234
  - 💬 Got questions or curious about something?
 Feel free to ask, I'm always happy to help or chat!
 
