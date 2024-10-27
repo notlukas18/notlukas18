@@ -1,14 +1,14 @@
 # Hola, World! I'm Javohir 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=notlukas18&color=blue)
 
-I'm a Software engineering student, with a passion for bringing ideas to life. Growing up in the early 2000s, I fell in love with the internet, and that passion has driven me to design and develop websites and applications that are fast, responsive, and accessible to everyone. I specialize in creating projects with functionalities such as [briefly describe your specialties, e.g., "booking systems for various businesses."]
+I'm a Software Developer, with a passion for bringing ideas to life. Growing up in the early 2000s, I fell in love with the internet, inspired by my experiences and interest in AI and mobile app development, I aim to build digital solutions that are both efficient and accessible to users. I specialize in Kotlin and Python for creating apps and data-driven projects. [briefly describe your specialties, e.g., "booking systems for various businesses."]
 
-Additionally, I'm diving into the world of [Other Field/Skill], expanding my skill set to streamline development processes and improve deployment efficiency.
+Currently, I’m expanding my knowledge in DevOps and containerization with Docker, diving deeper into tools like GitHub to streamline development and improve deployment workflows.
 
 ## 💼 Interested in working together?
 Reach out to me via se13024@students.polito.uz
 
-## 💬 Got a question?
+## 💬 Got questions or curious about something?
 Feel free to ask, I'm always happy to help or chat!
 
 ---
@@ -25,22 +25,8 @@ Feel free to ask, I'm always happy to help or chat!
 
 ---
 
-## 📃 I Love Documentation
-Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation. My go-to documentation tool is [Obsidian.md](https://obsidian.md/).
-
-In addition, I'm working on a custom Obsidian theme as part of my Violet Void series. This theme features rich, deep purple colors with transparency effects, providing a sleek and modern look. I plan to release it soon so others can enjoy it as well.
-
-### Whenever I write documentation, I follow these principles:
-- **What** is this documentation about?
-- **Why** is this documentation important?
-- **How** can the reader use it?
-- **When** should it be used?
-- **Who** is it for?
-
----
-
 ## ⚙️ My Development Environment
-I grew up with [Operating System], and it holds a special place in my heart. It’s my go-to for development, where I extensively use [Tools/Technologies]. My customized PowerShell configuration streamlines my workflows, combined with [Editor/IDE] and other tools.
+I primarily use Windows with WSL for accessing Linux functionalities, along with VSCode and Git for code management. My configurations are personalized for a smooth, productive development experience, and I’m actively exploring Linux distributions like Ubuntu and Debian to enhance my skills further.
 
 ### 🖥️ PowerUser Setup
 Accelerating my productivity with:
