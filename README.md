@@ -6,7 +6,7 @@ I'm a Software Developer, with a passion for bringing ideas to life. Growing up 
 Currently, I’m expanding my knowledge in DevOps and containerization with Docker, diving deeper into tools like GitHub to streamline development and improve deployment workflows.
 
 ## 💼 Interested in working together?
-Reach out to me via se13024@students.polito.uz
+Reach out to me via Reach out to me via [Email](mailto:se13024@students.polito.uz)  
 
 ## 💬 Got questions or curious about something?
 Feel free to ask, I'm always happy to help or chat!
