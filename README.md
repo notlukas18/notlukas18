@@ -15,7 +15,7 @@ Feel free to ask, I'm always happy to help or chat!
 
 ## <img src=https://github.com/user-attachments/assets/ad369346-48cc-4816-8056-066eecfbc2a9 width="30" height="30"> Featured Projects
 ### [Vintage Haven](https://github.com/notlukas18/Vintage-Haven) 🧸
-[Vintage Haven](https://github.com/notlukas18/Vintage-Haven) An online store app focused on unique vintage items, built with my team. It includes features like a product listing, cart, and user registration, all working seamlessly to deliver a great shopping experience.
+[Vintage Haven](https://github.com/notlukas18/Vintage-Haven) is all about creating a treasure trove for anyone who loves finding unique, one-of-a-kind pieces with a story. It's designed to bring a smooth, almost nostalgic shopping experience, letting users browse and discover vintage gems at their own pace. From timeless pieces to unexpected finds, every item feels like a mini time capsule. My team and I have focused on keeping the whole vibe true to the vintage aesthetic, with a layout and functionality that just feels right. It’s built to be a digital haven for people who don’t just shop—they curate their lives with style and soul.
 
 
 ## 📈 My GitHub Stats
