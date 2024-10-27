@@ -16,7 +16,7 @@ Feel free to ask, I'm always happy to help or chat!
 
 ## 🌟 Featured Projects
 ### [Vintage Haven](https://github.com/notlukas18/Vintage-Haven) 🧸
-[Vintage Haven](https://github.com/notlukas18/Vintage-Haven) Vintage Haven: An online store app focused on unique vintage items, built with my team. It includes features like a product listing, cart, and user registration, all working seamlessly to deliver a great shopping experience.
+[Vintage Haven](https://github.com/notlukas18/Vintage-Haven) An online store app focused on unique vintage items, built with my team. It includes features like a product listing, cart, and user registration, all working seamlessly to deliver a great shopping experience.
 
 ---
 
