@@ -41,10 +41,10 @@ Accelerating my productivity with:
 ---
 
 ## 🎶 Spotify Listening Status
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=notlukas&cover_image=true&theme=default&bar_color=0b0b0b&icon_color=white&title_color=white)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ixtxoa1aiyh0m1qa79t4gxy29&cover_image=true&theme=default&bar_color=0b0b0b&icon_color=white&title_color=white)
 
 ## 🎧 Currently Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=notlukas&theme=default)](https://open.spotify.com/user/notlukas)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ixtxoa1aiyh0m1qa79t4gxy29&theme=default)](https://open.spotify.com/user/ixtxoa1aiyh0m1qa79t4gxy29)
 
 ---
 
