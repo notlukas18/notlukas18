@@ -1,5 +1,3 @@
-# Hello, World! <img src="https://github.com/user-attachments/assets/f4bfdb68-9428-401d-bb33-edfaf2401009" width="30" height="30">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=notlukas18\&color=blue)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header" alt="header"/> 
