@@ -1,11 +1,10 @@
-![Profile Views](https://komarev.com/ghpvc/?username=notlukas18\&color=blue)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4682B4&width=435&lines=Hello%2C+it's+Javohir+Abduvahhobov;Software+Engineer" alt="Software Engineer"/>
 </a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=notlukas18\&color=blue)
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
@@ -15,7 +14,7 @@
     <img src="./assets/about.gif" alt="About Me Terminal GIF"/>
 </div>
 
-## 🧠 About Me
+## About Me
 
 I am a **Software Developer** with a passion for **AI** and **mobile app development**. With a deep appreciation for digital innovation, I specialize in crafting data-driven applications and solutions that make a real-world impact.
 
@@ -55,6 +54,8 @@ I’m driven by the desire to push the boundaries of both technology and creativ
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
