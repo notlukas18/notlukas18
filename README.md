@@ -4,14 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4682B4&width=435&lines=Hello%2C+it's+Javohir+Abduvahhobov;Software+Engineer" alt="Software Engineer"/>
 </a>
 
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
-
-<div>
-    <img src="./assets/about.gif" alt="About Me Terminal GIF"/>
-</div>
-
 ## About Me
 
 I am a **Software Developer** with a passion for **AI** and **mobile app development**. With a deep appreciation for digital innovation, I specialize in crafting data-driven applications and solutions that make a real-world impact.
