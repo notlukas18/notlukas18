@@ -48,9 +48,5 @@ I’m driven by the desire to push the boundaries of both technology and creativ
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </p>
 
----
-
-[![GitHub followers](https://img.shields.io/github/followers/notlukas18?label=Follow\&style=social)](https://github.com/notlukas18)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
 
