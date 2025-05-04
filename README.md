@@ -3,6 +3,7 @@
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4682B4&width=435&lines=Hello%2C+it's+Javohir+Abduvahhobov;Software+Engineer" alt="Software Engineer"/>
 </a>
+
 I am a **Software Developer** with a passion for **AI** and **mobile app development**. With a deep appreciation for digital innovation, I specialize in crafting data-driven applications and solutions that make a real-world impact.
 
 Currently, I’m enhancing my expertise in **Kotlin** and **Python**, while refining my skills in **GitHub workflows** to streamline development processes.
