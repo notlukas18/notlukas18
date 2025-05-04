@@ -2,12 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=notlukas18\&color=blue)
 
----
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B6C8C&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4B6C8C&width=435&lines=Hello%2C+it's+Javohir+Abduvahhobov;Software+Engineer" alt="Software Engineer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=C0C0C0&width=435&lines=Hello%2C+it's+Javohir+Abduvahhobov;Software+Engineer" alt="Software Engineer"/>
 </a>
+
 
 
 <!--
