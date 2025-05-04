@@ -16,7 +16,6 @@ Outside of coding, I focus on:
 
 I’m driven by the goal to leverage both **technology and creativity** to develop impactful solutions for the future.
 
----
 
 ## 📬 Let’s Connect
 
