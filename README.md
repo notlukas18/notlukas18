@@ -26,7 +26,6 @@ I’m driven by the goal to leverage both **technology and creativity** to devel
  
      I’m always happy to chat, share insights, or assist with any projects!
 
----
 
 ## 🛠️ Tech Stack
 
