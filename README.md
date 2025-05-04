@@ -63,7 +63,3 @@ I’m driven by the desire to push the boundaries of both technology and creativ
 ---
 
 [![GitHub followers](https://img.shields.io/github/followers/notlukas18?label=Follow\&style=social)](https://github.com/notlukas18)
-
----
-
-This version maintains a polished and professional tone while showcasing your skills and interests in a visually appealing way. Feel free to adjust it to suit your style!
