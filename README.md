@@ -4,17 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4682B4&width=435&lines=Hello%2C+it's+Javohir+Abduvahhobov;Software+Engineer" alt="Software Engineer"/>
 </a>
 
-I am a **Software Developer** with a passion for **AI** and **mobile app development**. With a deep appreciation for digital innovation, I specialize in crafting data-driven applications and solutions that make a real-world impact.
+I am a **Software Developer** specializing in AI, machine learning, deep learning, and mobile app development. I am passionate about digital innovation and dedicated to building data-driven applications that solve real-world challenges.
 
-Currently, I’m enhancing my expertise in **Kotlin** and **Python**, while refining my skills in **GitHub workflows** to streamline development processes.
+Currently, I’m deepening my expertise in Kotlin, Python, and enhancing my proficiency in GitHub workflows to optimize development processes.
 
-When I’m not coding, I’m exploring the following passions:
+Outside of coding, I focus on:
 
-* 🎸 Music that inspires creativity
-* 🎮 Gaming and interactive art experiences
-* 🎨 Innovative artistic expression
+Exploring emerging technologies in AI and machine learning.
 
-I’m driven by the desire to push the boundaries of both technology and creativity.
+Continuously improving my skills to push the boundaries of software development.
+
+Staying updated on industry trends and the latest breakthroughs in technology.
+
+I’m driven by the goal to leverage both technology and creativity to develop impactful solutions for the future.
 
 ---
 
