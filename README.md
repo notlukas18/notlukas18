@@ -1,4 +1,4 @@
-# 👋 Hola, World! I'm **lucien** <img src="https://github.com/user-attachments/assets/f4bfdb68-9428-401d-bb33-edfaf2401009" width="30" height="30">
+# 👋 Hello, World! I'm **lucien** <img src="https://github.com/user-attachments/assets/f4bfdb68-9428-401d-bb33-edfaf2401009" width="30" height="30">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=notlukas18\&color=blue)
 
@@ -6,40 +6,28 @@
 
 ## 🧠 About Me
 
-I’m a passionate **Software Developer** with a strong focus on **AI**, **mobile app development**. With roots in the early days of the internet, I’m driven by a love for digital innovation and creating tools that make an impact.
+I am a **Software Developer** with a passion for **AI** and **mobile app development**. With a deep appreciation for digital innovation, I specialize in crafting data-driven applications and solutions that make a real-world impact.
 
-Currently, I’m building next-level, data-powered applications using **Kotlin** and **Python**, while deepening my expertise **GitHub workflows**.
+Currently, I’m enhancing my expertise in **Kotlin** and **Python**, while refining my skills in **GitHub workflows** to streamline development processes.
 
-When I'm not coding, you’ll probably find me:
+When I’m not coding, I’m exploring the following passions:
 
-* 🎸 Listening to music
-* 🎮 Gaming or exploring interactive art
-* 🎨 Finding new ways to express creativity
+* 🎸 Music that inspires creativity
+* 🎮 Gaming and interactive art experiences
+* 🎨 Innovative artistic expression
 
-I'm all about pushing boundaries—both technically and artistically.
-
----
-
-## 📬 Let's Connect
-
-* 💼 **Open to Collaborations or Freelance Opportunities**
-       📩 Reach me on Discord: `notlukas#0084`
-* 💬 **Got questions or ideas?**
-       Always down to chat and help out where I can!
+I’m driven by the desire to push the boundaries of both technology and creativity.
 
 ---
 
-## 🚀 Featured Project
+## 📬 Let’s Connect
 
-### 🎯 [Vintage Haven](https://github.com/notlukas18/Vintage-Haven)
+* 💼 **Open to collaborations and freelance opportunities**
 
-A curated shopping platform inspired by the aesthetics and stories of the past.
-We’ve designed **Vintage Haven** to offer a smooth, nostalgic shopping experience, spotlighting rare, one-of-a-kind pieces.
-This project combines thoughtful UX design with functional architecture to create a true digital haven for vintage lovers.
+  * 📩 Reach me via email: **[javohirabduvahhobov@gmail.com](mailto:javohirabduvahhobov@gmail.com)**
+* 💬 **Have questions or ideas?**
 
-> 💻 Built with love by a small, passionate team of creators.
-
-🔗 [Live Link or Repo](https://github.com/notlukas18/vintagex-project)
+  * I’m always happy to chat, share insights, or assist with any projects!
 
 ---
 
@@ -50,7 +38,7 @@ This project combines thoughtful UX design with functional architecture to creat
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -78,4 +66,4 @@ This project combines thoughtful UX design with functional architecture to creat
 
 ---
 
-Would you like me to add a “Tech Stack” section or badges for tools like Kotlin, Python, Docker, etc.?
+This version maintains a polished and professional tone while showcasing your skills and interests in a visually appealing way. Feel free to adjust it to suit your style!
