@@ -22,10 +22,10 @@ I’m driven by the goal to leverage both **technology and creativity** to devel
 
 * 💼 **Open to collaborations and freelance opportunities**
   
-📩 Reach me via email: **[javohirabduvahhobov@gmail.com](mailto:javohirabduvahhobov@gmail.com)**
+     📩 Reach me via email: **[javohirabduvahhobov@gmail.com](mailto:javohirabduvahhobov@gmail.com)**
 * 💬 **Have questions or ideas?**
  
-I’m always happy to chat, share insights, or assist with any projects!
+     I’m always happy to chat, share insights, or assist with any projects!
 
 ---
 
