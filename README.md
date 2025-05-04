@@ -29,13 +29,6 @@ I’m driven by the goal to leverage both **technology and creativity** to devel
 
 ---
 
-## 📊 GitHub Stats
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notlukas18\&show_icons=true\&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=notlukas18\&theme=tokyonight) |
-| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -47,6 +40,15 @@ I’m driven by the goal to leverage both **technology and creativity** to devel
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notlukas18\&show_icons=true\&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=notlukas18\&theme=tokyonight) |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+
+---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
 
