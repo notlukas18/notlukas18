@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4682B4&width=435&lines=Hello%2C+it's+Javohir+Abduvahhobov;Software+Engineer" alt="Software Engineer"/>
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=notlukas18\&color=blue)
-
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
