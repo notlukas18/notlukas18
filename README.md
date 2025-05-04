@@ -71,10 +71,6 @@ I’m driven by the desire to push the boundaries of both technology and creativ
 
 ---
 
-![cat](https://github.com/user-attachments/assets/d07df06c-96dd-4606-8cf3-646277191573)
-
----
-
 [![GitHub followers](https://img.shields.io/github/followers/notlukas18?label=Follow\&style=social)](https://github.com/notlukas18)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
